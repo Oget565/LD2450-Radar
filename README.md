@@ -8,6 +8,10 @@ I made this project because I never had any experience with radars, and they see
 <img width="1154" height="813" alt="image" src="https://github.com/user-attachments/assets/c1277624-cf9a-4910-9984-aaed1a4f7b77" />
 <img width="677" height="667" alt="image" src="https://github.com/user-attachments/assets/37e20456-9c7e-4193-b878-03908db55223" />
 <img width="695" height="425" alt="image" src="https://github.com/user-attachments/assets/020d7df0-08fe-4c21-aa4c-d2a9ab3b6da7" />
+<img width="864" height="762" alt="image" src="https://github.com/user-attachments/assets/87796620-1a20-4e40-8913-3efa555b4430" />
+<img width="793" height="621" alt="image" src="https://github.com/user-attachments/assets/4afa04f2-8dc1-44a1-8b55-1fc4de5430b1" />
+<img width="845" height="760" alt="image" src="https://github.com/user-attachments/assets/f70ea37d-1a5e-4a0d-9bf0-cb7eabfc9b9f" />
+
 
 
 # BOM
