@@ -4,8 +4,16 @@ This is a radar device that utilizes a combination of 2 LD2450 millimeter wave r
 # Why I made this project
 I made this project because I never had any experience with radars, and they seem very interesting to me since some modules are capable of seeing humans behind a wall, which feels like a spy tech. I also this that this could save lives as an advenced intruder alert system. It can work in the dark, autonomous, and is relatively cheap for this technology.
 
+# Features
+* 224° Radar FOV and 365° Lidar FOV
+* ~6m radar detection and ~12m lidar radius
+* Separate radar and screen, so it can be placed anywhere
+* Uses a custom ESP32 board
+* 2.8 Inch touch screen
+
+
 # Pictures
-<img width="1154" height="813" alt="image" src="https://github.com/user-attachments/assets/c1277624-cf9a-4910-9984-aaed1a4f7b77" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/c1277624-cf9a-4910-9984-aaed1a4f7b77" />
 <img width="677" height="667" alt="image" src="https://github.com/user-attachments/assets/37e20456-9c7e-4193-b878-03908db55223" />
 <img width="695" height="425" alt="image" src="https://github.com/user-attachments/assets/020d7df0-08fe-4c21-aa4c-d2a9ab3b6da7" />
 <img width="864" height="762" alt="image" src="https://github.com/user-attachments/assets/87796620-1a20-4e40-8913-3efa555b4430" />
