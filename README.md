@@ -13,13 +13,14 @@ I made this project because I never had any experience with radars, and they see
 
 
 # Pictures
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/c1277624-cf9a-4910-9984-aaed1a4f7b77" />
 <img width="995" height="943" alt="image" src="https://github.com/user-attachments/assets/2a884c93-03e4-4f4a-8ab2-ceebe2ce2715" />
 <img width="981" height="933" alt="image" src="https://github.com/user-attachments/assets/e54558a5-d58f-490e-a7dc-f6898ed8e6bf" />
-<img width="695" height="425" alt="image" src="https://github.com/user-attachments/assets/020d7df0-08fe-4c21-aa4c-d2a9ab3b6da7" />
-<img width="744" height="673" alt="image" src="https://github.com/user-attachments/assets/feaf086e-ef5f-46a1-91be-46bdc64851d0" />
-<img width="849" height="634" alt="image" src="https://github.com/user-attachments/assets/65326284-cc30-45fe-823d-dfa6e9338e41" />
-<img width="805" height="646" alt="image" src="https://github.com/user-attachments/assets/7cfe72ef-4cab-4aea-9036-b6db1012b26c" />
+<img width="1341" height="855" alt="image" src="https://github.com/user-attachments/assets/0bf84bb8-00d5-4019-bfe5-6d730f43589a" />
+<img width="1489" height="921" alt="image" src="https://github.com/user-attachments/assets/1bf401f9-2a5a-40ba-918b-8d12fd3b5116" />
+<img width="1235" height="827" alt="image" src="https://github.com/user-attachments/assets/3a27f663-50ad-4d35-9f01-663cf57d87c2" />
+<img width="1201" height="803" alt="image" src="https://github.com/user-attachments/assets/138b9aff-0517-4789-bb35-ea77ac813e8c" />
+
+
 
 
 # BOM
